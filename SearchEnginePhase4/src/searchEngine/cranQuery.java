@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-class cranQuery {
+class CranQuery {
 
 	
 	public static String cranQueryFile = SearchEngine.directory + "src/documents/cran.txt";
